@@ -1,0 +1,53 @@
+.design{
+    border-radius:43% 57% 45% 55% / 52% 48% 52% 48%  ;
+    
+}
+.backimg{
+  background-image: url(../images/image.jpg);
+  background-size: cover;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.radious{
+    border-radius: 49% 51% 70% 30% / 30% 76% 24% 70% ;
+    background-color: #050424;
+  }
+
+  .bgcolor{
+background-color: #050424;
+  }
+
+  .pro{
+    display: none;
+  }
+  
+  /*content*/
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  /*Heading*/
+  .krona-one-regular {
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+  }
+
+  .days-one-regular {
+    font-family: "Days One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
